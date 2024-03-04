@@ -2,7 +2,7 @@ HELP.md
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
-!**/src/main/**/build/
+!**/src/maIN/**/build/
 !**/src/test/**/build/
 
 ### STS ###
@@ -10,20 +10,20 @@ build/
 .classpath
 .factorypath
 .project
-.settings
-.springBeans
+.settINgs
+.sprINgBeans
 .sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+bIN/
+!**/src/maIN/**/bIN/
+!**/src/test/**/bIN/
 
-### IntelliJ IDEA ###
+### INTelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
 out/
-!**/src/main/**/out/
+!**/src/maIN/**/out/
 !**/src/test/**/out/
 
 ### NetBeans ###

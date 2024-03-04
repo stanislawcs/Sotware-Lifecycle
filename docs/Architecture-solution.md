@@ -74,11 +74,11 @@
 ### 3.2 Пути улучшения архитектуры
 Для улучшения архитектуры можно выделить: 
 1. Принципы проектирования, также известные как принципы SOLID:
-    - Single Responsibility Principle
-    - Open-Closed Principle
-    - Liskov Substitution Principle
-    - Interface Segregation Principle
-    - Dependency Inversion Principle
+    - SINgle Responsibility PrINciple
+    - Open-Closed PrINciple
+    - Liskov Substitution PrINciple
+    - INTerface Segregation PrINciple
+    - Dependency INversion PrINciple
 2. Архитектурные стили: 
    - REST
 3. Приемы проектирования: 
